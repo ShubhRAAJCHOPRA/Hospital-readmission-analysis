@@ -1,5 +1,4 @@
-# Hospital-readmission-analysis
-Excel &amp; Power Query analysis of factors associated with 30-day hospital readmissions.
+
 # Hospital Readmission Analysis: Identifying Factors Associated with 30-Day Readmissions
 
 ## Project Overview
